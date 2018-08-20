@@ -1,0 +1,137 @@
+[22-Jan-2018 22:11:36 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:11:36 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:11:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:12:29 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:12:29 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:12:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:18:00 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:18:00 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:18:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:18:02 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:18:02 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:18:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:18:47 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:18:47 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:18:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:18:55 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:18:55 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:18:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:00 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:19:00 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:00 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:19:00 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:00 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:19:01 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:19:01 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:19:01 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:19:01 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:19:01 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:01 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:02 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:19:02 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:02 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:08 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[22-Jan-2018 22:19:08 UTC] PHP Warning:  require_once(parts/bottom.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'parts/bottom.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/mycommunity/index.php on line 56
+[22-Jan-2018 22:19:27 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/mycommunity/index.php on line 8
+[23-Jan-2018 10:55:58 UTC] PHP Notice:  Undefined index: follow in /home/bagusseno/public_html/myfeed/index.php on line 16
+[23-Jan-2018 10:56:23 UTC] PHP Notice:  Undefined index: follow in /home/bagusseno/public_html/myfeed/index.php on line 17
+[23-Jan-2018 10:56:25 UTC] PHP Notice:  Undefined index: follow in /home/bagusseno/public_html/myfeed/index.php on line 17
+[23-Jan-2018 10:56:37 UTC] PHP Notice:  Undefined index: follow in /home/bagusseno/public_html/myfeed/index.php on line 17
+[24-Jan-2018 23:09:54 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[24-Jan-2018 23:09:55 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[24-Jan-2018 23:12:18 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[24-Jan-2018 23:12:26 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[24-Jan-2018 23:14:18 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[24-Jan-2018 23:14:31 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[24-Jan-2018 23:16:52 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[24-Jan-2018 23:16:59 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[29-Jan-2018 10:39:35 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[29-Jan-2018 10:46:00 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[30-Jan-2018 03:26:55 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[31-Jan-2018 00:44:37 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[31-Jan-2018 00:53:06 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[31-Jan-2018 02:19:43 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[31-Jan-2018 03:59:44 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[31-Jan-2018 10:41:20 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[31-Jan-2018 15:11:50 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[31-Jan-2018 15:11:54 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[31-Jan-2018 15:22:39 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[31-Jan-2018 16:55:44 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[01-Feb-2018 00:12:37 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[02-Feb-2018 12:23:39 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 01:46:37 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 01:47:01 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 01:55:50 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 01:58:09 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 01:59:16 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 02:15:21 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 03:46:23 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 03:49:31 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 04:41:47 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 04:42:10 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 04:42:31 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[03-Feb-2018 04:42:37 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[04-Feb-2018 09:13:13 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[07-Feb-2018 09:45:59 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[07-Feb-2018 09:48:05 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[08-Feb-2018 12:23:01 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[08-Feb-2018 14:22:18 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[08-Feb-2018 16:36:01 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[08-Feb-2018 16:52:04 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[08-Feb-2018 16:52:16 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[08-Feb-2018 16:53:45 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[09-Feb-2018 03:25:06 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[09-Feb-2018 03:25:28 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[09-Feb-2018 03:27:49 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[09-Feb-2018 03:27:51 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[09-Feb-2018 03:28:02 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[09-Feb-2018 03:28:09 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[09-Feb-2018 09:02:43 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[09-Feb-2018 13:33:13 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[10-Feb-2018 10:31:33 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[11-Feb-2018 14:04:37 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[11-Feb-2018 14:05:10 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[11-Feb-2018 14:05:16 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[12-Feb-2018 12:23:22 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[12-Feb-2018 16:29:38 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[12-Feb-2018 23:21:11 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[13-Feb-2018 02:26:17 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[13-Feb-2018 14:49:19 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[13-Feb-2018 15:29:39 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[13-Feb-2018 15:37:42 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[13-Feb-2018 15:37:57 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[13-Feb-2018 15:52:42 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[14-Feb-2018 02:15:03 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[14-Feb-2018 02:18:21 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[14-Feb-2018 08:13:46 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[14-Feb-2018 11:50:19 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[14-Feb-2018 12:05:38 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[14-Feb-2018 12:23:42 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[14-Feb-2018 13:00:38 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[14-Feb-2018 15:06:07 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/myfeed/index.php on line 8
+[14-Feb-2018 15:08:20 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[16-Feb-2018 09:11:25 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[16-Feb-2018 09:11:30 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[16-Feb-2018 14:18:41 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[17-Feb-2018 03:49:35 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[17-Feb-2018 03:55:36 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[21-Feb-2018 10:42:11 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[21-Feb-2018 10:43:44 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[15-Mar-2018 03:07:17 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[15-Mar-2018 03:08:12 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[15-Mar-2018 03:08:12 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[21-Apr-2018 05:39:29 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[21-Apr-2018 05:40:40 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[02-Aug-2018 07:56:56 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55
+[09-Aug-2018 05:40:08 UTC] PHP Notice:  Undefined index: status in /home/bagusseno/public_html/myfeed/index.php on line 55

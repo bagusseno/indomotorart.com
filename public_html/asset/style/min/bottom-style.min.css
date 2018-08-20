@@ -1,0 +1,1 @@
+.grid-selection{display: inline-block; position: fixed; z-index: 999; right: 0; bottom: 6px; right: 6px;}.grid-item img{cursor:pointer;width: 36px; background: white; opacity: 0.5;}.grid-item img:hover {box-shadow: 0px 1px 10px rgba(0,0,0,0.5); opacity: 1;}

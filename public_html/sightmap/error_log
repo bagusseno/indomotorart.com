@@ -1,0 +1,133 @@
+[07-Apr-2018 15:23:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 15:24:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 15:25:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 15:35:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 15:36:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 16:18:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 16:23:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 16:26:33 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 16:27:48 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 16:28:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 16:29:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/bagusseno/public_html/sightmap/requestHandler.php on line 17
+[07-Apr-2018 16:35:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:35:24 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[07-Apr-2018 16:42:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:42:09 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[07-Apr-2018 16:43:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:43:07 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[07-Apr-2018 16:47:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:47:39 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[07-Apr-2018 16:51:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:51:11 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[07-Apr-2018 16:51:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:51:35 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[07-Apr-2018 16:52:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:52:17 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[07-Apr-2018 16:52:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:52:27 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[07-Apr-2018 16:52:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:52:40 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[07-Apr-2018 16:52:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:53:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:53:15 UTC] PHP Notice:  Undefined index: username in /home/bagusseno/public_html/sightmap/requestHandler.php on line 21
+[07-Apr-2018 16:53:15 UTC] PHP Notice:  Undefined index: password in /home/bagusseno/public_html/sightmap/requestHandler.php on line 21
+[07-Apr-2018 16:53:15 UTC] PHP Notice:  Undefined variable: err in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 7
+[07-Apr-2018 16:54:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:54:31 UTC] PHP Notice:  Undefined index: username in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[07-Apr-2018 16:54:31 UTC] PHP Notice:  Undefined index: password in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[07-Apr-2018 16:54:31 UTC] PHP Notice:  Undefined variable: err in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 7
+[07-Apr-2018 16:56:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:57:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:59:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[07-Apr-2018 16:59:25 UTC] PHP Notice:  Undefined index: username in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[07-Apr-2018 16:59:25 UTC] PHP Notice:  Undefined index: password in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[07-Apr-2018 16:59:25 UTC] PHP Notice:  Undefined variable: err in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 7
+[08-Apr-2018 03:32:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[08-Apr-2018 03:32:36 UTC] PHP Notice:  Undefined index: username in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[08-Apr-2018 03:32:36 UTC] PHP Notice:  Undefined index: password in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[08-Apr-2018 03:32:36 UTC] PHP Notice:  Undefined variable: err in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 7
+[08-Apr-2018 13:35:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[08-Apr-2018 13:35:04 UTC] PHP Notice:  Undefined index: username in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[08-Apr-2018 13:35:04 UTC] PHP Notice:  Undefined index: password in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[08-Apr-2018 13:35:04 UTC] PHP Notice:  Undefined variable: err in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 7
+[09-Apr-2018 03:33:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[09-Apr-2018 03:33:07 UTC] PHP Notice:  Undefined index: username in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[09-Apr-2018 03:33:07 UTC] PHP Notice:  Undefined index: password in /home/bagusseno/public_html/sightmap/requestHandler.php on line 22
+[09-Apr-2018 03:33:07 UTC] PHP Notice:  Undefined variable: err in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 7
+[09-Apr-2018 03:36:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[09-Apr-2018 03:36:51 UTC] PHP Parse error:  syntax error, unexpected '$err' (T_VARIABLE) in /home/bagusseno/public_html/sightmap/exceptionHandler.php on line 6
+[09-Apr-2018 03:37:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[09-Apr-2018 03:37:43 UTC] PHP Notice:  Undefined index: username in /home/bagusseno/public_html/sightmap/requestHandler.php on line 23
+[09-Apr-2018 03:37:43 UTC] PHP Notice:  Undefined index: password in /home/bagusseno/public_html/sightmap/requestHandler.php on line 23
+[09-Apr-2018 03:37:43 UTC] PHP Notice:  Undefined variable: err in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 9
+[09-Apr-2018 03:45:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[09-Apr-2018 03:45:13 UTC] PHP Notice:  Undefined variable: authed in /home/bagusseno/public_html/sightmap/requestHandler.php on line 28
+[09-Apr-2018 03:46:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[09-Apr-2018 03:49:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'localhost' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[09-Apr-2018 03:51:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'bagusseno_bagusseno'@'156.67.215.1' to database 'sightmap' in /home/bagusseno/public_html/sightmap/DBConnection.php on line 3
+[09-Apr-2018 12:57:12 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[09-Apr-2018 12:57:12 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[09-Apr-2018 12:57:27 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[09-Apr-2018 12:57:27 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[09-Apr-2018 12:57:32 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[09-Apr-2018 12:57:32 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[09-Apr-2018 15:13:26 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[09-Apr-2018 15:13:26 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[09-Apr-2018 15:15:23 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[09-Apr-2018 15:15:23 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[09-Apr-2018 16:25:26 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[09-Apr-2018 16:25:26 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[09-Apr-2018 16:27:16 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[09-Apr-2018 16:27:16 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[09-Apr-2018 16:58:11 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[09-Apr-2018 16:58:11 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[13-Apr-2018 01:22:46 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 01:22:46 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[13-Apr-2018 02:30:33 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 02:30:33 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[13-Apr-2018 02:36:32 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 02:36:32 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[13-Apr-2018 02:38:06 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 02:38:06 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[13-Apr-2018 02:41:53 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 02:41:53 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[13-Apr-2018 03:05:06 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 03:05:06 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 31
+[13-Apr-2018 03:10:21 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 03:10:21 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 03:10:40 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 03:10:40 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 03:11:13 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 03:11:13 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 03:15:15 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 03:15:15 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 03:15:41 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/requestHandler.php on line 29
+[13-Apr-2018 03:15:41 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 03:16:06 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/requestHandler.php on line 29
+[13-Apr-2018 03:16:06 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 03:16:30 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/requestHandler.php on line 29
+[13-Apr-2018 03:16:30 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 03:16:30 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/bagusseno/public_html/sightmap/requestHandler.php on line 34
+[13-Apr-2018 03:18:10 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 03:18:10 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 03:18:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 03:18:26 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 03:18:43 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 03:18:43 UTC] PHP Warning:  mysqli::query(): Empty query in /home/bagusseno/public_html/sightmap/requestHandler.php on line 30
+[13-Apr-2018 07:31:32 UTC] PHP Warning:  Missing argument 2 for escape(), called in /home/bagusseno/public_html/sightmap/requestHandler.php on line 38 and defined in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 28
+[13-Apr-2018 07:31:32 UTC] PHP Notice:  Undefined variable: string in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 07:31:32 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/bagusseno/public_html/sightmap/XENOFramework.php on line 29
+[13-Apr-2018 07:37:41 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagusseno/public_html/sightmap/requestHandler.php on line 49
+[13-Apr-2018 07:53:06 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/bagusseno/public_html/sightmap/requestHandler.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/bagusseno/public_html/sightmap/requestHandler.php on line 49
+[13-Apr-2018 07:53:13 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/bagusseno/public_html/sightmap/requestHandler.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/bagusseno/public_html/sightmap/requestHandler.php on line 49
+[13-Apr-2018 08:05:20 UTC] PHP Notice:  Array to string conversion in /home/bagusseno/public_html/sightmap/requestHandler.php on line 64
+[13-Apr-2018 08:10:46 UTC] PHP Notice:  Undefined index: request in /home/bagusseno/public_html/sightmap/requestHandler.php on line 64
+[13-Apr-2018 08:10:53 UTC] PHP Notice:  Undefined index: request in /home/bagusseno/public_html/sightmap/requestHandler.php on line 64
+[13-Apr-2018 08:10:58 UTC] PHP Notice:  Undefined index: request in /home/bagusseno/public_html/sightmap/requestHandler.php on line 64
+[17-Apr-2018 06:25:22 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/bagusseno/public_html/sightmap/requestHandler.php on line 67

@@ -1,0 +1,4 @@
+[30-May-2018 08:00:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::querya() in /home/bagusseno/public_html/chessknight/feedback.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/bagusseno/public_html/chessknight/feedback.php on line 10

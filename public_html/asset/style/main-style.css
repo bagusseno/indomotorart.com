@@ -1,0 +1,145 @@
+#main {
+    padding: 40px 0 91px;
+}
+
+.cat-title {
+  border-left: 5px solid black;
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+
+.brand-title h2 {
+}
+
+.post-list {
+  display: grid;
+  grid-column: 2;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 5px;
+  margin-bottom: 40px;
+}
+
+.post-item {
+  width: 100%;
+  break-inside: avoid-column;
+  position: relative;
+  cursor: pointer;
+}
+
+.post-thumb {
+  background-size: cover;
+  background-position-y: center;
+  width: 100%;
+  padding-top: 66.25%;
+}
+
+.post-overlay {
+  position: absolute;
+  padding: 10px;
+  color: white;
+  opacity: 0;
+  transition: 0.3s;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.post-overlay a {
+  color: white;
+  text-decoration: none;
+}
+
+.bottom-post {
+    bottom: 0;
+}
+
+.post-btn {
+  display: inline-block!important;
+}
+
+.top-post {
+    top: 0;
+}
+
+.post-item:hover:before {
+  opacity: 0.6;
+}
+
+.post-item:hover .post-overlay {
+  opacity: 1;
+}
+
+.post-item:before {
+  content: " ";
+  position: absolute;
+  background: black;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.actions-post {
+  float: right;
+}
+
+.userdetails {
+    opacity: 0.6;
+}
+
+.actions-post a {
+  color: white;
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 2px 9px;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+.more-post {
+    position: absolute;
+    right: 0;
+    right: 10px;
+    bottom: 10px;
+}
+
+.comment-post-btn {
+  margin-right: 6px
+}
+
+.brand-section {
+
+}
+    
+.container-brand .post-list {
+}
+
+.container-brand {
+    width: 100%;
+}
+.filter-section select {
+    max-width: 237px;
+    width: 100%;
+    font-size: 20px;
+    margin: 5px;
+    font-family: Roboto Slab;
+}
+.filter-section {
+    text-align: center;
+    padding: 30px 0;
+}
+.filter {
+    margin-bottom: 40px;
+    background: black;
+    color: white;
+    left: 0;
+    right: 0;
+    z-index: 99;
+}
+#filtered {
+    padding-bottom: 40px;
+}
+.maaf {
+    width: 400%;
+    text-align: center;
+}

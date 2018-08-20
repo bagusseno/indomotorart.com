@@ -1,0 +1,84 @@
+Yamaha:
+Aerox 125 LC
+All new Soul GT 125
+Grand Filano
+GT 125
+Jupiter MX
+Jupiter z1
+Mio M3 125
+Mio Z
+MT-09
+MT-09 Tracer
+MT-25
+MX king
+New Byson Fi
+New Fino 125
+New Vixion
+Nmax
+R1
+R-15
+R-25
+R6
+TMAX
+Vega Force
+WR250R
+Xabre
+X-Ride
+
+Honda:
+All new supra GTR
+Beat
+Beat pop
+Blade 125 FI
+CB150R
+CBR 150 R
+CBR 250
+MegaPro Fi
+new Supra X 
+Revo
+Scoopy
+Sonic 150R
+Spacy
+Vario 110 Fi
+Vario 125 
+Vario 150
+Verza
+
+Kawasaki:
+Athlete PRO
+D-Tracker
+D-tracker SE
+D-TRACKER X
+ER-6n
+Estrella
+KSR 110
+KSR PRO
+Ninja 1000
+Ninja 250
+Ninja 650
+Ninja H2
+Ninja R
+Ninja RR
+Ninja SS
+Ninja ZX-10R
+Ninja ZX-14R
+Ninja ZX-6R
+Pulsar 200NS
+Versys 1000
+Versys 650
+Vulcan S
+Vulcan S SE
+W800
+Z1000
+Z125 PRO
+Z250
+Z250SL
+Z800
+
+Suzuki:
+Address
+BURGMAN 200
+Hayabusa
+Satria
+Suzuki Inazuma R
+V-Strom 650

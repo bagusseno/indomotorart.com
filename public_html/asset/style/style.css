@@ -1,0 +1,219 @@
+/*
+
+About: This is style file which purposed for common style that applies any page
+
+*/
+
+/* Browser */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto Slab';
+  position: relative;
+  height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+a {
+  color: #365899;
+  text-decoration: none;
+}
+
+a:hover {
+    opacity: 0.5;
+}
+
+.fa {
+  font-family: FontAwesome, 'Roboto Slab'!important;
+}
+
+li {
+  list-style-position: inside;
+}
+/* Container */
+.container {
+  padding: 0 20px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.container-1040 {
+    padding: 0 20px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    max-width: 1040px;
+}
+.container-800 {
+    max-width: 800px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0 20px;
+}
+.container-center {
+    text-align: center;
+}
+.container-flex-center {
+    display: flex;
+    align-items: center;
+}
+.col-11 {
+  width: 100%
+}
+
+.col-12 {
+  width: 50%;
+}
+.col-13 {
+  width: 33.33%;
+}
+.col-23 {
+  width: 66.66%;
+}
+
+/* common */
+.btn {
+  padding: 6px 12px!important;
+  background: transparent;
+  outline: 0;
+  border: 0;
+  border: 1px solid;
+  cursor: pointer;
+  display: inline-block;
+  color: black;
+  font-size: unset;
+  font-family: 'Roboto Slab';
+}
+
+.btn:hover, .button2:hover {
+  background: black;
+  color: white!important;
+  border: 1px solid;
+  opacity: 1!important;
+  transition: 0.2s;
+}
+
+.btn, .button2 {
+  transition: 0.2s;
+}
+
+.button2 {
+  border: 1px solid;
+  background: white;
+  color: black!important;
+  padding: 6px 10px;
+  font-weight: 700;
+  display: inline!important;
+}
+
+.btn_transparent {
+    padding: 10px;
+    box-sizing: border-box;
+    cursor: pointer
+}
+
+.fa-plus:before {
+  padding-right: 3px;
+}
+
+.left {
+  float: left;
+}
+
+.errMsg {
+  color: red!important;
+}
+
+.page {
+  padding: 50px 0 101px 0;
+  display: flow-root;
+}
+
+.post-icon:before {
+    margin-right: 3px;
+    cursor: pointer;
+}
+
+.post-icon {
+    margin-right: 10px;
+}
+
+.loved:before {
+  color: red;
+}
+
+.love-post:hover:before {
+    color: red;
+}
+
+#msg-endpost {
+  text-align: center;
+  padding: 10px;
+  display: none;
+  box-sizing: border-box;
+  border: 1px solid;
+  margin: 0 auto;
+}
+
+#msg-endpost a {
+}
+
+@media screen and (max-width: 929px) {
+  #intro-text {
+  display: none;
+  }
+}
+
+#footer {
+  padding: 15px 0;
+  background: black;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.q {
+    padding: 17px;
+    border: 2px solid;
+    text-align: center;
+}
+
+.q_alert {
+    border: 2px solid red;
+    background: #ffefef;
+    text-align: center;
+}
+
+#q_upload {
+    margin-top: 10px;
+}
+.log-form {
+    display: inline-grid;
+    grid-gap: 10px;
+    max-width: 291px;
+}
+#message-r {
+    display: none;
+}
+.search_r_right {
+    float: right;
+}
+.search-result p:hover {
+    background: yellow;
+}
+.center-text {
+    text-align: center;
+}
+.right-text {
+    text-align: right;
+    width: 100%;
+    display: inline-block;
+}
+iframe {
+    display:none;
+}

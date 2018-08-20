@@ -1,0 +1,760 @@
+[14-Jan-2018 08:20:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/bagusseno/public_html/upload/upload.php:8
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 8
+[15-Jan-2018 06:29:39 UTC] PHP Notice:  Array to string conversion in /home/bagusseno/public_html/upload/upload.php on line 54
+[16-Jan-2018 12:18:09 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 71
+[16-Jan-2018 12:18:51 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 71
+[20-Jan-2018 09:27:49 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 71
+[20-Jan-2018 09:33:02 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 71
+[20-Jan-2018 09:33:36 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 71
+[21-Jan-2018 09:24:11 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 71
+[25-Jan-2018 09:40:51 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 97
+[25-Jan-2018 09:50:03 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 09:50:51 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 09:51:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 09:53:17 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 09:53:32 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:01:21 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:02:11 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:02:12 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:10:25 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:10:36 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:10:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:11:14 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:33:58 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:34:28 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:36:47 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:39:00 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 99
+[25-Jan-2018 10:40:02 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 99
+[25-Jan-2018 10:40:24 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 99
+[25-Jan-2018 10:40:46 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 99
+[25-Jan-2018 10:41:09 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 98
+[25-Jan-2018 10:57:15 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 100
+[25-Jan-2018 10:58:06 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 100
+[25-Jan-2018 10:58:55 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 100
+[25-Jan-2018 11:00:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 101
+[25-Jan-2018 11:02:08 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 101
+[25-Jan-2018 11:02:25 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 101
+[25-Jan-2018 11:02:47 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 101
+[25-Jan-2018 11:04:50 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:06:18 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:06:30 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:07:33 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:08:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:09:18 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:09:41 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:09:52 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 71
+[25-Jan-2018 11:10:06 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:10:20 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 71
+[25-Jan-2018 11:10:24 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:10:39 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:10:55 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:15:38 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:15:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:17:03 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:17:20 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:51:57 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:52:44 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:54:05 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:54:20 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:55:23 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:57:11 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:57:16 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:58:28 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[25-Jan-2018 11:59:18 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[25-Jan-2018 11:59:34 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[27-Jan-2018 03:56:04 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[28-Jan-2018 15:18:48 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[28-Jan-2018 15:19:03 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[29-Jan-2018 01:41:01 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[29-Jan-2018 08:03:46 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[29-Jan-2018 08:03:54 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[29-Jan-2018 08:07:22 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[29-Jan-2018 09:12:38 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[29-Jan-2018 09:13:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[29-Jan-2018 09:28:44 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[29-Jan-2018 10:28:23 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[29-Jan-2018 10:44:13 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[31-Jan-2018 15:14:08 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[31-Jan-2018 15:14:24 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[31-Jan-2018 15:15:27 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[31-Jan-2018 15:15:37 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[31-Jan-2018 15:15:37 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[31-Jan-2018 15:17:51 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[31-Jan-2018 15:17:51 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[31-Jan-2018 15:19:08 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/bagusseno/public_html/upload/upload.php on line 79
+[31-Jan-2018 15:19:20 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[31-Jan-2018 15:19:46 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[31-Jan-2018 15:19:46 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[31-Jan-2018 15:20:27 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[31-Jan-2018 15:20:27 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[02-Feb-2018 12:16:08 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[02-Feb-2018 12:23:52 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[02-Feb-2018 12:24:34 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[02-Feb-2018 12:29:19 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[02-Feb-2018 16:14:55 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[02-Feb-2018 16:17:57 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[03-Feb-2018 03:50:26 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[03-Feb-2018 04:38:06 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 02:16:56 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 02:23:15 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[04-Feb-2018 02:24:02 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 03:52:18 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 03:53:46 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[04-Feb-2018 04:29:05 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 13:38:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 13:39:51 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 13:43:19 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 13:43:56 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 13:44:30 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[04-Feb-2018 13:44:46 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 07:50:01 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 07:52:27 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 07:52:50 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 07:53:11 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 07:53:13 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:18:24 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:18:47 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:21:22 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[08-Feb-2018 10:21:47 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:24:45 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:29:03 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:31:04 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:34:37 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:37:27 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:38:02 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:41:34 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[08-Feb-2018 10:42:27 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:49:54 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:50:58 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 10:56:53 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 12:18:30 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 12:21:02 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 73
+[08-Feb-2018 14:24:40 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 14:25:38 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 14:25:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 14:26:06 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 16:52:00 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 17:59:19 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 18:00:29 UTC] PHP Notice:  Use of undefined constant IMGTYPE_JPEG - assumed 'IMGTYPE_JPEG' in /home/bagusseno/public_html/upload/upload.php on line 40
+[08-Feb-2018 18:00:29 UTC] PHP Notice:  Undefined variable: imageType in /home/bagusseno/public_html/upload/upload.php on line 40
+[08-Feb-2018 18:00:29 UTC] PHP Notice:  Use of undefined constant IMGTYPE_PNG - assumed 'IMGTYPE_PNG' in /home/bagusseno/public_html/upload/upload.php on line 44
+[08-Feb-2018 18:00:29 UTC] PHP Notice:  Undefined variable: imageType in /home/bagusseno/public_html/upload/upload.php on line 44
+[08-Feb-2018 18:00:29 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 49
+[08-Feb-2018 18:00:29 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 49
+[08-Feb-2018 18:00:29 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 50
+[08-Feb-2018 18:00:29 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:50
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 50
+[08-Feb-2018 23:18:28 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[08-Feb-2018 23:18:38 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 03:20:04 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 03:23:45 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 03:25:21 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 03:25:30 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 03:27:21 UTC] PHP Notice:  Undefined variable: thumb in /home/bagusseno/public_html/upload/upload.php on line 57
+[09-Feb-2018 03:27:21 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 03:27:58 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 03:28:08 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 04:26:18 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 04:27:21 UTC] PHP Notice:  Undefined variable: thumb in /home/bagusseno/public_html/upload/upload.php on line 57
+[09-Feb-2018 04:27:21 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 04:28:11 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 04:28:19 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 04:29:10 UTC] PHP Notice:  Undefined variable: thumb in /home/bagusseno/public_html/upload/upload.php on line 57
+[09-Feb-2018 04:29:10 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 04:42:42 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 04:46:24 UTC] PHP Notice:  Undefined variable: thumb in /home/bagusseno/public_html/upload/upload.php on line 57
+[09-Feb-2018 04:46:24 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 04:47:38 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 07:17:48 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 07:21:10 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 07:21:33 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 07:22:52 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 13:33:19 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 13:34:38 UTC] PHP Notice:  Undefined variable: imageType in /home/bagusseno/public_html/upload/upload.php on line 40
+[09-Feb-2018 13:34:38 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 49
+[09-Feb-2018 13:34:38 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 49
+[09-Feb-2018 13:34:38 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 50
+[09-Feb-2018 13:34:38 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:50
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 50
+[09-Feb-2018 13:35:50 UTC] PHP Notice:  Undefined variable: imageType in /home/bagusseno/public_html/upload/upload.php on line 40
+[09-Feb-2018 13:35:50 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 49
+[09-Feb-2018 13:35:50 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 49
+[09-Feb-2018 13:35:50 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 50
+[09-Feb-2018 13:35:50 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:50
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 50
+[09-Feb-2018 13:35:51 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 13:36:29 UTC] PHP Notice:  Undefined variable: imageType in /home/bagusseno/public_html/upload/upload.php on line 40
+[09-Feb-2018 13:36:29 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 49
+[09-Feb-2018 13:36:29 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 49
+[09-Feb-2018 13:36:29 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 50
+[09-Feb-2018 13:36:29 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:50
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 50
+[09-Feb-2018 13:37:38 UTC] PHP Notice:  Undefined variable: imageType in /home/bagusseno/public_html/upload/upload.php on line 43
+[09-Feb-2018 13:37:38 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 52
+[09-Feb-2018 13:37:38 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 52
+[09-Feb-2018 13:37:38 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 53
+[09-Feb-2018 13:37:38 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:53
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 53
+[09-Feb-2018 13:38:09 UTC] PHP Warning:  imagecreatefromjpeg(/tmp/phpArc6vF): failed to open stream: No such file or directory in /home/bagusseno/public_html/upload/upload.php on line 44
+[09-Feb-2018 13:38:09 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 52
+[09-Feb-2018 13:38:09 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 102
+[09-Feb-2018 13:41:13 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 13:41:29 UTC] PHP Warning:  imagecreatefromjpeg(/tmp/phpY88tYS): failed to open stream: No such file or directory in /home/bagusseno/public_html/upload/upload.php on line 44
+[09-Feb-2018 13:41:29 UTC] PHP Warning:  imagecopyresized() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 52
+[09-Feb-2018 13:41:29 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 102
+[09-Feb-2018 13:45:31 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 13:45:31 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[09-Feb-2018 13:45:40 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 102
+[10-Feb-2018 01:44:31 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[10-Feb-2018 06:43:04 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[10-Feb-2018 06:48:44 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 102
+[10-Feb-2018 06:49:31 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[10-Feb-2018 12:17:43 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 01:32:13 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 01:32:28 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 02:16:43 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 02:18:37 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 02:20:48 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 102
+[11-Feb-2018 02:21:26 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 02:21:28 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 13:57:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 13:58:28 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 14:00:33 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 14:00:47 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 14:01:45 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 14:02:45 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 14:04:29 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 14:04:45 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 14:05:16 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 14:05:17 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 14:05:20 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 16:04:22 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 16:05:33 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 102
+[11-Feb-2018 16:05:45 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 16:51:38 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[11-Feb-2018 16:54:36 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 102
+[11-Feb-2018 16:56:40 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 08:17:37 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 09:45:28 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 09:45:29 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 09:47:26 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/bagusseno/public_html/upload/upload.php on line 53
+[12-Feb-2018 09:47:26 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 102
+[12-Feb-2018 09:47:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 09:48:00 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 09:48:27 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 09:48:27 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 09:51:36 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/bagusseno/public_html/upload/upload.php on line 53
+[12-Feb-2018 09:51:36 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 102
+[12-Feb-2018 12:23:40 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:24:21 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 127
+[12-Feb-2018 12:24:40 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:25:40 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:26:35 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:26:35 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:26:35 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:26:35 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:26:35 UTC] PHP Notice:  Undefined variable: type in /home/bagusseno/public_html/upload/upload.php on line 37
+[12-Feb-2018 12:26:35 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:26:35 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:26:35 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:26:35 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:26:35 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:26:35 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:49
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:26:37 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:26:37 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:26:37 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:26:37 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:26:37 UTC] PHP Notice:  Undefined variable: type in /home/bagusseno/public_html/upload/upload.php on line 37
+[12-Feb-2018 12:26:37 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:26:37 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:26:37 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:26:37 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:26:37 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:26:37 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:49
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:28:07 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:28:07 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:28:07 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:28:07 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:28:07 UTC] PHP Notice:  Undefined variable: type in /home/bagusseno/public_html/upload/upload.php on line 37
+[12-Feb-2018 12:28:07 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:28:07 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:28:07 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:28:07 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:28:07 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 48
+[12-Feb-2018 12:28:07 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:48
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 48
+[12-Feb-2018 12:28:21 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 31
+[12-Feb-2018 12:28:21 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 31
+[12-Feb-2018 12:28:21 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 31
+[12-Feb-2018 12:28:21 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 36
+[12-Feb-2018 12:28:21 UTC] PHP Notice:  Undefined variable: type in /home/bagusseno/public_html/upload/upload.php on line 38
+[12-Feb-2018 12:28:21 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:28:21 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:28:21 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:28:21 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:28:21 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:28:21 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:49
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:28:25 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 31
+[12-Feb-2018 12:28:25 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 31
+[12-Feb-2018 12:28:25 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 31
+[12-Feb-2018 12:28:25 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 36
+[12-Feb-2018 12:28:25 UTC] PHP Notice:  Undefined variable: type in /home/bagusseno/public_html/upload/upload.php on line 38
+[12-Feb-2018 12:28:25 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:28:25 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:28:25 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:28:25 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:28:25 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:28:25 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:49
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:29:06 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:29:06 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:29:06 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:29:06 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:29:06 UTC] PHP Notice:  Undefined variable: type in /home/bagusseno/public_html/upload/upload.php on line 37
+[12-Feb-2018 12:29:06 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:29:06 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:29:06 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:29:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:29:06 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:29:06 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:47
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:29:42 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 31
+[12-Feb-2018 12:29:42 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 31
+[12-Feb-2018 12:29:42 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 31
+[12-Feb-2018 12:29:42 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 36
+[12-Feb-2018 12:29:42 UTC] PHP Notice:  Undefined variable: type in /home/bagusseno/public_html/upload/upload.php on line 38
+[12-Feb-2018 12:29:42 UTC] PHP Notice:  Undefined variable: source in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:29:42 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:29:42 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:29:42 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:29:42 UTC] PHP Notice:  Undefined variable: imagecreate in /home/bagusseno/public_html/upload/upload.php on line 48
+[12-Feb-2018 12:29:42 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/bagusseno/public_html/upload/upload.php:48
+Stack trace:
+#0 /home/bagusseno/public_html/upload/index.php(4): require_once()
+#1 {main}
+  thrown in /home/bagusseno/public_html/upload/upload.php on line 48
+[12-Feb-2018 12:31:00 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:31:00 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:31:00 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:31:00 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:31:00 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:31:00 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:31:00 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:31:00 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:31:05 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a8189046f4c5pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 66
+[12-Feb-2018 12:31:05 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 74
+[12-Feb-2018 12:31:05 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 77
+[12-Feb-2018 12:31:05 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:32:21 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:32:21 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:32:21 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:32:21 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:32:21 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:32:21 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:32:21 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:32:21 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:32:26 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81895546240pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 66
+[12-Feb-2018 12:32:26 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 74
+[12-Feb-2018 12:32:26 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 77
+[12-Feb-2018 12:32:26 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:33:47 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bagusseno/public_html/upload/upload.php on line 78
+[12-Feb-2018 12:33:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:34:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bagusseno/public_html/upload/upload.php on line 78
+[12-Feb-2018 12:34:17 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:34:32 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:34:32 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:34:32 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:34:32 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:34:32 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:34:32 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:34:32 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:34:32 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:34:32 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a8189d86dab1pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 67
+[12-Feb-2018 12:34:32 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 75
+[12-Feb-2018 12:34:32 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 79
+[12-Feb-2018 12:34:32 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:35:33 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:35:33 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:35:33 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:35:33 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:35:33 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:35:33 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:35:33 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 46
+[12-Feb-2018 12:35:33 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:35:33 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a818a15443f7pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 67
+[12-Feb-2018 12:35:33 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 75
+[12-Feb-2018 12:35:33 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 79
+[12-Feb-2018 12:35:33 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:36:08 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:36:08 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:36:08 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:36:08 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:36:08 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:36:08 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:36:08 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:36:08 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 48
+[12-Feb-2018 12:36:08 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a818a3842fcapexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 68
+[12-Feb-2018 12:36:08 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 76
+[12-Feb-2018 12:36:08 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 80
+[12-Feb-2018 12:36:08 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:36:34 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:36:34 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:36:34 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:36:34 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:36:35 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:36:35 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:36:35 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:36:35 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 48
+[12-Feb-2018 12:36:35 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a818a52cc46apexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 68
+[12-Feb-2018 12:36:35 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 76
+[12-Feb-2018 12:36:35 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 80
+[12-Feb-2018 12:36:35 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:37:01 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:37:01 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:37:01 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:37:01 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:37:01 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:37:01 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:37:01 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 47
+[12-Feb-2018 12:37:01 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:37:01 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a818a6d1ee7dpexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 69
+[12-Feb-2018 12:37:01 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 77
+[12-Feb-2018 12:37:01 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 81
+[12-Feb-2018 12:37:01 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:37:28 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:37:28 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:37:28 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:37:28 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:37:28 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:37:28 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:37:28 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:37:28 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 51
+[12-Feb-2018 12:37:28 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a818a887f86dpexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 71
+[12-Feb-2018 12:37:28 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[12-Feb-2018 12:37:28 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 83
+[12-Feb-2018 12:37:28 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:38:31 UTC] PHP Notice:  Undefined variable: height in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:38:31 UTC] PHP Notice:  Undefined variable: width in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:38:31 UTC] PHP Warning:  Division by zero in /home/bagusseno/public_html/upload/upload.php on line 30
+[12-Feb-2018 12:38:31 UTC] PHP Warning:  imagecreatetruecolor() expects parameter 2 to be integer, float given in /home/bagusseno/public_html/upload/upload.php on line 35
+[12-Feb-2018 12:38:31 UTC] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 49
+[12-Feb-2018 12:38:31 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, null given in /home/bagusseno/public_html/upload/upload.php on line 51
+[12-Feb-2018 12:38:31 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a818ac74ee24pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 71
+[12-Feb-2018 12:38:31 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[12-Feb-2018 12:38:31 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 83
+[12-Feb-2018 12:38:31 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:39:23 UTC] PHP Warning:  imagejpeg(http://indomotorart.com/asset/photos/5a818afb71018pexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 51
+[12-Feb-2018 12:39:23 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a818afb71018pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 71
+[12-Feb-2018 12:39:23 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[12-Feb-2018 12:39:23 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 83
+[12-Feb-2018 12:39:23 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:39:59 UTC] PHP Warning:  imagejpeg(http://indomotorart.com/asset/photos/5a818b1e75cf0pexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 52
+[12-Feb-2018 12:39:59 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a818b1e75cf0pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 72
+[12-Feb-2018 12:39:59 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 80
+[12-Feb-2018 12:39:59 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 84
+[12-Feb-2018 12:39:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 12:40:19 UTC] PHP Warning:  imagejpeg(http://indomotorart.com/asset/photos/5a818b333ac47pexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 52
+[12-Feb-2018 12:40:19 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a818b333ac47pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 72
+[12-Feb-2018 12:40:19 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 80
+[12-Feb-2018 12:40:19 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 84
+[12-Feb-2018 12:40:19 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:29:40 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:29:55 UTC] PHP Parse error:  syntax error, unexpected 'image' (T_STRING) in /home/bagusseno/public_html/upload/upload.php on line 26
+[12-Feb-2018 16:29:58 UTC] PHP Parse error:  syntax error, unexpected 'image' (T_STRING) in /home/bagusseno/public_html/upload/upload.php on line 26
+[12-Feb-2018 16:30:14 UTC] PHP Warning:  imagejpeg(http://indomotorart.com/asset/photos/5a81c1169c7bdpexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 52
+[12-Feb-2018 16:30:15 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81c1169c7bdpexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 72
+[12-Feb-2018 16:30:15 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 80
+[12-Feb-2018 16:30:15 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 84
+[12-Feb-2018 16:30:15 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:30:45 UTC] PHP Warning:  imagejpeg(http://indomotorart.com/asset/photos/5a81c1355a748pexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 53
+[12-Feb-2018 16:30:45 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81c1355a748pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 73
+[12-Feb-2018 16:30:45 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 81
+[12-Feb-2018 16:30:45 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 85
+[12-Feb-2018 16:30:45 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:31:42 UTC] PHP Warning:  imagejpeg(http://indomotorart.com/asset/photos/5a81c16ed3ddbpexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 54
+[12-Feb-2018 16:31:43 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81c16ed3ddbpexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 74
+[12-Feb-2018 16:31:43 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 82
+[12-Feb-2018 16:31:43 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 86
+[12-Feb-2018 16:31:43 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:33:25 UTC] PHP Notice:  Undefined variable: filae in /home/bagusseno/public_html/upload/upload.php on line 41
+[12-Feb-2018 16:33:25 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/bagusseno/public_html/upload/upload.php on line 41
+[12-Feb-2018 16:33:25 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 51
+[12-Feb-2018 16:33:25 UTC] PHP Warning:  imagejpeg(http://indomotorart.com/asset/photos/5a81c1d5aeb17pexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 54
+[12-Feb-2018 16:33:26 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81c1d5aeb17pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 74
+[12-Feb-2018 16:33:26 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 82
+[12-Feb-2018 16:33:26 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 86
+[12-Feb-2018 16:33:26 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:33:59 UTC] PHP Warning:  imagepng(http://indomotorart.com/asset/photos/5a81c1f796997pexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 54
+[12-Feb-2018 16:33:59 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81c1f796997pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 74
+[12-Feb-2018 16:33:59 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 82
+[12-Feb-2018 16:33:59 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 86
+[12-Feb-2018 16:33:59 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:34:47 UTC] PHP Warning:  imagepng(http://indomotorart.com/asset/photos/5a81c2274d68apexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 54
+[12-Feb-2018 16:34:47 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81c2274d68apexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 74
+[12-Feb-2018 16:34:47 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 82
+[12-Feb-2018 16:34:47 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:35:02 UTC] PHP Warning:  imagepng(http://indomotorart.com/asset/photos/5a81c236b6c2cpexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 54
+[12-Feb-2018 16:35:02 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81c236b6c2cpexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 74
+[12-Feb-2018 16:35:02 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 82
+[12-Feb-2018 16:35:02 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:35:30 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81c2516323fpexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 75
+[12-Feb-2018 16:35:30 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 83
+[12-Feb-2018 16:35:30 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 134
+[12-Feb-2018 16:36:18 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:37:05 UTC] PHP Warning:  imagepng(http://indomotorart.com/asset/photos/5a81c2b0f34b3pexels-photo-207171.jpeg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 54
+[12-Feb-2018 16:37:05 UTC] PHP Warning:  imagecreatefromjpeg(http://indomotorart.com/asset/photos/5a81c2b0f34b3pexels-photo-207171.jpeg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/bagusseno/public_html/upload/upload.php on line 74
+[12-Feb-2018 16:37:05 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 82
+[12-Feb-2018 16:37:05 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:38:01 UTC] PHP Warning:  imagepng(): gd-png error: compression level must be 0 through 9 in /home/bagusseno/public_html/upload/upload.php on line 54
+[12-Feb-2018 16:38:01 UTC] PHP Warning:  imagecreatefromjpeg(): Cannot read image data in /home/bagusseno/public_html/upload/upload.php on line 75
+[12-Feb-2018 16:38:01 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 83
+[12-Feb-2018 16:38:01 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 134
+[12-Feb-2018 16:38:31 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:38:46 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 134
+[12-Feb-2018 16:54:00 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[12-Feb-2018 16:54:13 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 02:26:20 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 103
+[13-Feb-2018 02:35:47 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 02:36:41 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 02:40:04 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 02:42:06 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 02:45:37 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 02:46:01 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 04:07:48 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 14:38:48 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 14:39:52 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 14:40:13 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 14:41:36 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 14:47:46 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 14:49:26 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 14:49:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 14:49:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 14:50:56 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:12:29 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:19:02 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:23:16 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:27:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 15:28:00 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:28:11 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:30:14 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:31:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 15:32:06 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:39:17 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:40:56 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 15:43:10 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:44:36 UTC] PHP Warning:  imagecreatefromjpeg(/tmp/phpzeeNG9): failed to open stream: No such file or directory in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 15:44:36 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[13-Feb-2018 15:44:36 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 15:48:20 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:48:36 UTC] PHP Warning:  imagecreatefromjpeg(/tmp/phpDWuSni): failed to open stream: No such file or directory in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 15:48:36 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[13-Feb-2018 15:48:36 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 15:48:45 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 15:49:31 UTC] PHP Warning:  imagecreatefromjpeg(/tmp/phpdxPt5G): failed to open stream: No such file or directory in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 15:49:31 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[13-Feb-2018 15:49:31 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 16:01:07 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:01:23 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 16:01:52 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:02:06 UTC] PHP Warning:  imagecreatefromjpeg(/tmp/phpAAjjcd): failed to open stream: No such file or directory in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 16:02:06 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[13-Feb-2018 16:02:06 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 16:03:00 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:03:11 UTC] PHP Warning:  imagecreatefromjpeg(/tmp/php73nGWA): failed to open stream: No such file or directory in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 16:03:11 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[13-Feb-2018 16:03:11 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 130
+[13-Feb-2018 16:04:10 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:04:21 UTC] PHP Warning:  move_uploaded_file(http://indomotorart.com/asset/photos/5a830c84ef7b8satria-ilham.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 81
+[13-Feb-2018 16:04:21 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7VhC51' to 'http://indomotorart.com/asset/photos/5a830c84ef7b8satria-ilham.jpg' in /home/bagusseno/public_html/upload/upload.php on line 81
+[13-Feb-2018 16:04:21 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:04:38 UTC] PHP Warning:  move_uploaded_file(http://indomotorart.com/asset/photos/5a830c954b135satria-ilham.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home/bagusseno/public_html/upload/upload.php on line 81
+[13-Feb-2018 16:04:38 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpC7iY4X' to 'http://indomotorart.com/asset/photos/5a830c954b135satria-ilham.jpg' in /home/bagusseno/public_html/upload/upload.php on line 81
+[13-Feb-2018 16:04:38 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:10:03 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:10:16 UTC] PHP Notice:  Undefined variable: uniqid_ in /home/bagusseno/public_html/upload/upload.php on line 25
+[13-Feb-2018 16:10:16 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:12:55 UTC] PHP Notice:  Undefined variable: uniqid_ in /home/bagusseno/public_html/upload/upload.php on line 26
+[13-Feb-2018 16:12:55 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:13:23 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:15:34 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:16:55 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:17:32 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:18:22 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[13-Feb-2018 16:18:30 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:18:40 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[13-Feb-2018 16:21:45 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:22:01 UTC] PHP Warning:  imagejpeg() expects parameter 1 to be resource, string given in /home/bagusseno/public_html/upload/upload.php on line 68
+[13-Feb-2018 16:22:02 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:23:41 UTC] PHP Notice:  Undefined variable: newImg in /home/bagusseno/public_html/upload/upload.php on line 83
+[13-Feb-2018 16:23:41 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:24:46 UTC] PHP Notice:  Undefined variable: oriUrl in /home/bagusseno/public_html/upload/upload.php on line 28
+[13-Feb-2018 16:24:46 UTC] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/bagusseno/public_html/upload/upload.php on line 28
+[13-Feb-2018 16:24:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXxKMJE' to '' in /home/bagusseno/public_html/upload/upload.php on line 28
+[13-Feb-2018 16:24:46 UTC] PHP Notice:  Undefined variable: oriUrl in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 16:24:46 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 16:24:46 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[13-Feb-2018 16:24:46 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:25:10 UTC] PHP Notice:  Undefined variable: oriUrl in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 16:25:10 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 16:25:10 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[13-Feb-2018 16:25:10 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 132
+[13-Feb-2018 16:25:52 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:26:01 UTC] PHP Notice:  Undefined variable: oriUrl in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 16:26:01 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/bagusseno/public_html/upload/upload.php on line 71
+[13-Feb-2018 16:26:01 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 79
+[13-Feb-2018 16:26:01 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 132
+[13-Feb-2018 16:26:41 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:26:50 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 132
+[13-Feb-2018 16:32:57 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[13-Feb-2018 16:33:10 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 135
+[14-Feb-2018 09:22:48 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 09:25:28 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 09:25:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 09:26:00 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 09:27:12 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 09:28:11 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 09:29:18 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 10:28:27 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 10:29:07 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[14-Feb-2018 10:48:33 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 11:50:25 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 11:51:31 UTC] PHP Notice:  Undefined variable: oriUrl in /home/bagusseno/public_html/upload/upload.php on line 43
+[14-Feb-2018 11:51:31 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/bagusseno/public_html/upload/upload.php on line 43
+[14-Feb-2018 11:51:31 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 53
+[14-Feb-2018 11:51:31 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[14-Feb-2018 11:51:58 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 11:52:43 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[14-Feb-2018 11:52:50 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 11:53:24 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 11:54:53 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 11:55:22 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 11:56:19 UTC] PHP Notice:  Undefined variable: oriUrl in /home/bagusseno/public_html/upload/upload.php on line 43
+[14-Feb-2018 11:56:19 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/bagusseno/public_html/upload/upload.php on line 43
+[14-Feb-2018 11:56:19 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 53
+[14-Feb-2018 11:56:19 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[14-Feb-2018 12:06:24 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 12:07:57 UTC] PHP Notice:  Undefined variable: oriUrl in /home/bagusseno/public_html/upload/upload.php on line 43
+[14-Feb-2018 12:07:57 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/bagusseno/public_html/upload/upload.php on line 43
+[14-Feb-2018 12:07:57 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 53
+[14-Feb-2018 12:08:02 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[14-Feb-2018 12:23:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 12:28:54 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 12:31:07 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 12:32:59 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[14-Feb-2018 13:15:50 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:16:09 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:18:40 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:18:41 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:20:16 UTC] PHP Notice:  Undefined variable: oriUrl in /home/bagusseno/public_html/upload/upload.php on line 43
+[14-Feb-2018 13:20:16 UTC] PHP Warning:  imagecreatefromjpeg(): Filename cannot be empty in /home/bagusseno/public_html/upload/upload.php on line 43
+[14-Feb-2018 13:20:16 UTC] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bagusseno/public_html/upload/upload.php on line 53
+[14-Feb-2018 13:20:16 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[14-Feb-2018 13:21:22 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:21:25 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:21:30 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:22:12 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:22:32 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:23:40 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:23:44 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:23:46 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:24:30 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:24:43 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:24:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:25:14 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:30:33 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:31:12 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 108
+[14-Feb-2018 13:32:12 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:32:45 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[14-Feb-2018 13:34:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:35:28 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:35:56 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:36:39 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[14-Feb-2018 13:36:48 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:36:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:36:49 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:38:17 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[14-Feb-2018 13:38:54 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[15-Feb-2018 18:01:44 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[15-Feb-2018 18:04:00 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[15-Feb-2018 18:04:51 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[15-Feb-2018 18:05:36 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[15-Feb-2018 18:07:09 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[15-Feb-2018 18:07:30 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[15-Feb-2018 18:08:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/bagusseno/public_html/upload/upload.php on line 67
+[15-Feb-2018 18:09:08 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[15-Feb-2018 18:09:08 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[15-Feb-2018 18:09:42 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[17-Feb-2018 03:49:39 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[17-Feb-2018 03:51:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/bagusseno/public_html/upload/upload.php on line 67
+[17-Feb-2018 03:55:33 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[01-Mar-2018 00:43:54 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[01-Mar-2018 00:54:09 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136
+[01-Mar-2018 00:54:24 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[01-Mar-2018 00:54:41 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[01-Mar-2018 01:22:43 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[01-Mar-2018 01:24:12 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[01-Mar-2018 01:24:16 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[02-Aug-2018 07:57:14 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[09-Aug-2018 05:40:54 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[09-Aug-2018 05:56:19 UTC] PHP Notice:  Use of undefined constant name - assumed 'name' in /home/bagusseno/public_html/upload/index.php on line 104
+[09-Aug-2018 05:58:46 UTC] PHP Notice:  Undefined variable: complete in /home/bagusseno/public_html/upload/upload.php on line 136

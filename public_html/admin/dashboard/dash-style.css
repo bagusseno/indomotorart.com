@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: arial;
+}
+.menubar {
+  height: 100%;
+  display: inline-block;
+  background: black;
+  padding: 20px;
+  float: left;
+  width: 19%;
+  box-sizing: border-box;
+}
+#menu {
+  margin-top: 40px;
+}
+#menu a {
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+}
+#menu li {
+  margin-bottom: 10px;
+  list-style: none;
+}
+#content {
+  display: inline-block;
+  position: relative;
+  padding: 20px;
+  width: 78%;
+  box-sizing: border-box;
+}
+#title {
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 20px;
+  padding: 10px;
+}
+#article {
+  margin-top: 20px;
+  width: 100%;
+  min-height: 250px;
+  padding: 10px;
+  font-family: arial;
+  font-size: 20px;
+}

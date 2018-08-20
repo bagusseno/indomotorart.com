@@ -1,0 +1,11 @@
+[14-Jan-2018 08:34:52 UTC] PHP Warning:  require_once(/menubar.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/admin/dashboard/index.php on line 30
+[14-Jan-2018 08:34:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/menubar.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/admin/dashboard/index.php on line 30
+[14-Jan-2018 08:35:37 UTC] PHP Warning:  require_once(/menubar.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/admin/dashboard/createpage.php on line 47
+[14-Jan-2018 08:35:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/menubar.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/admin/dashboard/createpage.php on line 47
+[14-Jan-2018 08:58:07 UTC] PHP Warning:  require_once(/menubar.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/admin/dashboard/page-list.php on line 32
+[14-Jan-2018 08:58:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/menubar.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/admin/dashboard/page-list.php on line 32
+[16-Jan-2018 01:39:47 UTC] PHP Warning:  require_once(/home/bagusseno/public_htmlasset.php): failed to open stream: No such file or directory in /home/bagusseno/public_html/admin/dashboard/post-list.php on line 43
+[16-Jan-2018 01:39:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/bagusseno/public_htmlasset.php' (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bagusseno/public_html/admin/dashboard/post-list.php on line 43
+[22-Jan-2018 05:15:18 UTC] PHP Notice:  Undefined index: user in /home/bagusseno/public_html/admin/dashboard/createpage.php on line 25
+[22-Jan-2018 07:45:35 UTC] PHP Parse error:  syntax error, unexpected '$HOME_URL' (T_VARIABLE), expecting ',' or ';' in /home/bagusseno/public_html/admin/dashboard/page-list.php on line 57
+[22-Jan-2018 07:45:41 UTC] PHP Parse error:  syntax error, unexpected '$HOME_URL' (T_VARIABLE), expecting ',' or ';' in /home/bagusseno/public_html/admin/dashboard/page-list.php on line 57
